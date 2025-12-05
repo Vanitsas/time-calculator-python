@@ -16,4 +16,4 @@ Time difference: 4 hours 15 minutes
 - Simple and easy to use
 
 ## 🧠 FreeCodeCamp link
-Scientific Computing with Python Projects
+[Scientific Computing with Python Projects](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
