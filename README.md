@@ -1,15 +1,19 @@
-# Time Calculator
+# Time Calculator ⏱️
+This is my solution for the FreeCodeCamp Scientific Computing with Python project: **Time Calculator**.
 
-This project is a simple Python program that calculates time based on user input.  
-It was created as a practice project to improve Python skills.
+## 🎯 Objective
+Calculate the difference between two times and display it clearly.
 
-## Features
-- Input start and end times
+## ✅ Example Output
+Start time: 08:30  
+End time: 12:45  
+Time difference: 4 hours 15 minutes
+
+## 💡 Features
+- Accepts start and end times from the user
 - Calculates the difference in hours and minutes
 - Displays the result clearly
+- Simple and easy to use
 
-## How to Run
-1. Make sure you have Python installed.
-2. Run the program:
-   ```bash
-python build-a-time-calculator-project.py
+## 🧠 FreeCodeCamp link
+Scientific Computing with Python Projects
