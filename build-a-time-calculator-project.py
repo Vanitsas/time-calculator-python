@@ -1,5 +1,3 @@
-** start of main.py **
-
 def add_time(start, duration, starting_day=None):
     start_time, period = start.split()
     start_hour, start_minute = map(int, start_time.split(':'))
@@ -47,7 +45,3 @@ def add_time(start, duration, starting_day=None):
         later_part = ""
 
     return f"{final_hour}:{final_minute:02d} {final_period}{day_part}{later_part}"
-
-
-** end of main.py **
-
